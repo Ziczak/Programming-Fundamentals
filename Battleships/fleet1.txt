@@ -1,0 +1,5 @@
+Carrier, 5, C7, V
+Battleship, 4, E2, H
+Destroyer, 3, A2, V
+Submarine, 3, B3, H
+Patrol Boat, 2, A6, H
